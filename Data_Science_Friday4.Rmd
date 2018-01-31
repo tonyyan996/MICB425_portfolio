@@ -1,0 +1,22 @@
+---
+title: "Data Science Friday 4"
+author: "Tony Yan (18752148)"
+date: "1/26/2018"
+output: html_document
+---
+
+```{r ggplot}
+
+read.table(file="Saanich.metadata.txt", header=TRUE, row.names=1, sep="\t", na.strings=c("NAN", "NA", "."))
+Saanich_metadata = read.table(file="Saanich.metadata.txt", header=TRUE, row.names=1, sep="\t", na.strings=c("NAN", "NA", "."))
+
+read.table(file="Saanich.OTU.txt", header=TRUE, row.names=1, sep="\t", na.strings=c("NAN", "NA", "."))
+OTU_table = read.table(file="Saanich.OTU.txt", header=TRUE, row.names=1, sep="\t", na.strings=c("NAN", "NA", "."))
+
+
+
+
+
+
+
+```

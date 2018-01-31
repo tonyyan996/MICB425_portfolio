@@ -95,44 +95,95 @@ Describe the numerical abundance of microbial life in relation to the ecology an
 #### Specific questions:
 * What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.  
 
-** (Answer): Marine environments (1.181x10^29) including polar water-ice interfaces, Soil (2.556x10^29), subsurface marine sediments (3.8x10^30), and microbiota. **
+  __(Answer): Marine environments (1.181x10^29) including polar water-ice interfaces, Soil (2.556x10^29), subsurface marine sediments (3.8x10^30), and microbiota.__
 
 * What is the estimated prokaryotic cell abundance in the upper 200 m of the ocean and what fraction of this biomass is represented by marine cyanobacterium including Prochlorococcus? What is the significance of this ratio with respect to carbon cycling in the ocean and the atmospheric composition of the Earth?  
 
-** (Answer): Upper 200m of ocean: Total number of cells = 3.6x10^28. Versus 2.9x10^27 for autotrophic prochlorococcus. Autotrophs have approximately 8% (4x10^4 / 5x10^5) of the total cell density for upper 200m ocean, meaning that carbon fixation makes up 80% of carbon cycling abundance in ocean, indicating a significant amount of the Earth's carbon dioxide is fixed through the ocean. **
+  __(Answer): Upper 200m of ocean: Total number of cells = 3.6x10^28. Versus 2.9x10^27 for autotrophic prochlorococcus. Autotrophs have approximately 8% (4x10^4 / 5x10^5) of the total cell density for upper 200m ocean, meaning that carbon fixation makes up 80% of carbon cycling abundance in ocean, indicating a significant amount of the Earth's carbon dioxide is fixed through the ocean.__
 
 * What is the difference between an autotroph, heterotroph, and a lithotroph based on information provided in the text?  
 
-** (Answer): Autotroph: Fixes carbon from carbon dioxide gas. Heterotroph: Uses carbon from organic compounds. Lithotroph: Uses inorganic substances (like minerals) to obtain reducing agents. **
+  __(Answer): Autotroph: Fixes carbon from carbon dioxide gas. Heterotroph: Uses carbon from organic compounds. Lithotroph: Uses inorganic substances (like minerals) to obtain reducing agents.__
 
 * Based on information provided in the text and your knowledge of geography what is the deepest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this depth?  
 
-** (Answer): Deep habitats supporting life, subsurface separated into terrestrial and marine. Temperature is limiting factor at very high depths in Mariana Trench (10.9km). **
+  __(Answer): Deep habitats supporting life, subsurface separated into terrestrial and marine. Temperature is limiting factor at very high depths in Mariana Trench (10.9km).__
 
 * Based on information provided in the text your knowledge of geography what is the highest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this height?  
 
-** (Answer): Qualities of air and atmosphere at that environment (Mt Everest 8.8km) also affects growth capabilities. **
+  __(Answer): Qualities of air and atmosphere at that environment (Mt Everest 8.8km) also affects growth capabilities.__
 
 * Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth’s biosphere measured in km?  
 
-** (Answer): 24km from the highest point to the lowester point on Earth represents the general biosphere. **
+  __(Answer): 24km from the highest point to the lowester point on Earth represents the general biosphere.__
 
 * How was annual cellular production of prokaryotes described in Table 7 column four determined? (Provide an example of the calculation)  
 
-** (Answer): Population x turnover/yr = cells/yr. e.g. marine heteros -> [3.6x10^28 cells x 365 days]/16 turnovers = 8.2x10^29 cells/yr. Virus affect growth and turnover rate and may contain metabolic assessory genes that can reprogram cells metabolically. **
+  __(Answer): Population x turnover/yr = cells/yr. e.g. marine heteros -> [3.6x10^28 cells x 365 days]/16 turnovers = 8.2x10^29 cells/yr. Virus affect growth and turnover rate and may contain metabolic assessory genes that can reprogram cells metabolically.__
 
 * What is the relationship between carbon content, carbon assimilation efficiency and turnover rates in the upper 200m of the ocean? Why does this vary with depth in the ocean and between terrestrial and marine habitats?  
 
-** (Answer): Carbon Efficiency = 20%  5-20fg C/cell 10x10^-30 pg/Cell  (3.6x10^28 Cells)x(10x10^-30 pg/cell)= 0.72 Pg carbonin marine heteros. 4x0.72= 2.88 Pg/yr of C. 51 Pg C/yr w/ 85% consumed = 43 Pg C/yr (43 Pg C/yr)/(2.88 Pg/yr) = 14.9, 1 turnover every 24.5 days. **
+  __(Answer): Carbon Efficiency = 20%  5-20fg C/cell 10x10^-30 pg/Cell  (3.6x10^28 Cells)x(10x10^-30 pg/cell)= 0.72 Pg carbonin marine heteros. 4x0.72= 2.88 Pg/yr of C. 51 Pg C/yr w/ 85% consumed = 43 Pg C/yr (43 Pg C/yr)/(2.88 Pg/yr) = 14.9, 1 turnover every 24.5 days.__
 
 * How were the frequency numbers for four simultaneous mutations in shared genes determined for marine heterotrophs and marine autotrophs given an average mutation rate of 4 x 10^-7^ per DNA replication? (Provide an example of the calculation with units. Hint: cell and generation cancel out)  
 
-** (Answer): (4x10^-7 mutations/generation)^4 (simultaneous mutations) = 2.56x10^26 mutations/generation. 3.6x10^28 cells and 365/16=22.8 turnovers/yr. (3.6x10^28 x 22.8 = 8.2x10^29 Cells/yr x 2.56x10^-26 mutations/generation) = 2.1x10^4 mutations/yr. **
+  __(Answer): (4x10^-7 mutations/generation)^4 (simultaneous mutations) = 2.56x10^26 mutations/generation. 3.6x10^28 cells and 365/16=22.8 turnovers/yr. (3.6x10^28 x 22.8 = 8.2x10^29 Cells/yr x 2.56x10^-26 mutations/generation) = 2.1x10^4 mutations/yr.__
 
 * Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt? 
 
 * What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text? 
 
+---------
+
+#Pretty_html
+###_Tony Yan (18752148)_
+###_version 1/24/2018_
+
+  * [R Markdown PDF Challenge](#r markdown pdf challenge)
+    + [Challenge Goals](##challenge goals)
+        * [Here's a header!](###heres a header)
+        * [Table Time](###Table Time)
+
+#R Markdown PDF Challenge
+The following assignment is an exercise for the reproduction of this .html document using the RStudio and RMarkdown tools we’ve shown you in class. Hopefully by the end of this, you won’t feel at all the way this poor PhD student does. We’re here to help, and when it comes to R, the internet is a really valuable resource. This open-source program has all kinds of tutorials online.
+![](https://pbs.twimg.com/media/B_NkGp5VEAA_YVh.jpg)
+
+[http://phdcomics.com/](http://phdcomics.com/) Comic posted 1-17-2018
+
+##Challenge Goals
+The goal of this R Markdown html challenge is to give you an opportunity to play with a bunch of different RMarkdown formatting. Consider it a chance to flex your RMarkdown muscles. Your goal is to write your own RMarkdown that rebuilds this html document as close to the original as possible. So, yes, this means you get to copy my irreverant tone exactly in your own Markdowns. It’s a little window into my psyche. Enjoy =)
+
+__hint: go to the [PhD Comics website](http://phdcomics.com/) to see if you can find the image above__
+
+_If you can’t find that exact image, just find a comparable image from the PhD Comics website and include it in your markdown_
+
+### Here's a header!
+Let’s be honest, this header is a little arbitrary. But show me that you can reproduce headers with different levels please. This is a level 3 header, for your reference (you can most easily tell this from the table of contents).
+
+####Another Header, now with maths
+Perhaps you’re already really confused by the whole markdown thing. Maybe you’re so confused that you’ve forgotton how to add. Never fear! ~~A calculator~~ R is here:
+```{r eval=FALSE}
+1231521+12341556280987
+```
+```{r echo=FALSE}
+1231521+12341556280987
+```
+
+###Table Time
+Or maybe, after you’ve added those numbers, you feel like it’s about time for a table!
+I’m going to leave all the guts of the coding here so you can see how libraries (R packages) are loaded into R (more on that later). It’s not terribly pretty, but it hints at how R works and how you will use it in the future. The summary function used below is a nice data exploration function that you may use in the ^future^.
+
+```{r}
+library(knitr)
+kable(summary(cars),caption="I made this table with kable in the knitr package library")
+```
+
+And now you’ve almost finished your first RMarkdown! Feeling excited? We are! In fact, we’re so excited that maybe we need a big finale eh? Here’s ours! Include a fun gif of your choice!
+
+![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
+----------
 
 
 ### Module 01 references
