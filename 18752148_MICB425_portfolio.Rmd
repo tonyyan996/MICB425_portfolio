@@ -45,48 +45,73 @@ The first of your second level headers (##) is to be used for the portfolio cont
 ## Data science Friday  
 The remaining second level headers (##) are for separating data science Friday, regular course, and project content. In this module, you will only need to include data science Friday and regular course content; projects will come later in the course.
 
-### Installation check
-Third level headers (###) should be used for links to assignments, evidence worksheets, problem sets, and readings, as seen here.  
 
+### Installation check
 Use this space to include your installation screenshots.
 
+![Terminal](https://github.com/tonyyan996/MICB425_portfolio/blob/master/Screenshot1.png?raw=true)
 
+![Rstudio](https://github.com/tonyyan996/MICB425_portfolio/blob/master/Screenshot2.png?raw=true)
+
+![Github](https://github.com/tonyyan996/MICB425_portfolio/blob/master/Screenshot3.png?raw=true)
 
 ### Portfolio repo setup
 Detail the code you used to create, initialize, and push your portfolio repo to GitHub. This will be helpful as you will need to repeat many of these steps to update your porfolio throughout the course.
 
+stndin: git add .
+stndin: git commit -m "commit message here"
+stndin: git status
+stndin: git push
 
-
-### RMarkdown pretty html challenge
-Paste your code from the in-class activity of recreating the example html.
-
-
+--------------
 
 ## Origins and Earth Systems
-### Evidence worksheet 01 
-The template for the first Evidence Worksheet has been included here. The first thing for any assignment should link(s) to any relevant literature (which should be included as full citations in a module references section below).
+### Evidence Worksheet for "Prokaryotes: The Unseen Majority"
 
-You can copy-paste in the answers you recorded when working through the evidence worksheet into this portfolio template. 
+### Learning Objectives
+Describe the numerical abundance of microbial life in relation to ecology and biogeochemistry of Earth systems.
 
-As you include Evidence worksheets and Problem sets in the future, ensure that you delineate Questions/Learning Objectives/etc. by using headers that are 4th level and greater. This will still create header markings when you render (knit) the document, but will exclude these levels from the Table of Contents. That's a good thing. You don't' want to clutter the Table of Contents too much.
+### General Questions
+#### What were the main questions being asked?
+
+Answer: How many prokaryotes are there in the world? How abundant are they relative to their ecosystems? To what extent do they participate in the global carbon cycling (and nitrogen, phosphorus, etc)?
+
+#### What were the primary methodological approaches used?
+
+Answer: 
+Estimation Methods:
+Water: Sediment density/mL
+Soil: Estimated from unpublished field studies. 
+Subsurface: Ground water sample estimations,as well as estimations from porosity of the ground and amount of space that prokaryotes occupied in pores. 
+Microbiota: Estimation from microbiota density and the population sizes of animals. 
+Leaves/Plants: Estimates are made from leaf area estimated by leaf area index. 
+Carbon estimations: Total organisms multiplied by 1/2 dry weight. 
+
+#### Summarize the main results or findings. 
+
+Answer:
+Essentially nutrient cycle estimations for a variety of environments.
+Total cellular carbon: 350-550 Pg of C
+Total cells: 4-6 x 10^30
+Total cellular nitrogen: 85-130 Pg N
+Total cellular phosphorus: 9-14 Pg P
+Total prokaryotic microorganisms:
+Open Ocean: 1.2 x 10^29
+Soil: 2.6 x 10^29
+ocean/terrestrial subsurface: 3.5 x 10^30	0.25-2.5 x 10^30
+Report statistics about how many prokaryotes are located in different environments. 
+
+#### Do new questions arise from the results?
+
+Answer: How does the abundance of the prokaryotes in these environments play a role in the total metabolic potential in their ecosystem? How did the authors compile their calculations into their finalized findings, why did they use the assumptions that they did in doing so? How can the authors be sure that their estimations are accurate and precise? Since they have no discrete controls or replicates? What were the statistical methods used to standardize across environments, between different sampling methodologies?
+
+#### Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
+
+Methods were not fully explained to a point of possible replication of their estimates. 
+Authors did not provide enough justification to use the assumptions that they did, and does not show how their assumptions may affect their estimates in one way or another.
 
 [Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
-
-#### Learning objectives
-Describe the numerical abundance of microbial life in relation to ecology and biogeochemistry of Earth systems. 
-
-#### General questions
-* What were the main questions being asked?  
-
-* What were the primary methodological approaches used?  
-
-* Summarize the main results or findings.  
-
-* Do new questions arise from the results?  
-
-* Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
-
-
+---------------
 
 ### Problem set 01
 #### Learning objectives: 
@@ -182,13 +207,64 @@ And now you’ve almost finished your first RMarkdown! Feeling excited? We are! 
 
 ![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-
 ----------
 
+### Evidence Worksheet_02 “Life and the Evolution of Earth’s Atmosphere”
+#### Learning objectives: 
+Comment on the emergence of microbial life and the evolution of Earth systems
+    
+    
+* Indicate the key events in the evolution of Earth systems at each approximate moment in the time series. If times need to be adjusted or added to the timeline to fully account for the development of Earth systems, please do so. 
+
+    + 4.6 billion years ago: Formation of Earth and the moon from the proposed collision between proto-Earth and proto-moon. Caused formation of Earth's early atmosphere, comprised of mostly methane, ammonia, hydrogen, nitrogen, and water vapor. 
+    
+    + 4.2 billion years ago: Earliest evidence for life. 
+    
+    + 3.8 billion years ago: Earliest signs of photosynthesis. Rubisco discovered.
+    
+    + 3.5 billion years ago: Earliest common ancestor between bacteria and archea split. Earliest fossils of bacteria and archaea dates to here.
+  
+    + 3.0 billion years ago: First large asteroid impact on Earth. Photosynthetic cyanobacteria evolve. Increase in oxygenation of the atomosphere. 
+    
+    + 2.7 billion years ago: Early evidence of eukaryotes discovered by association with sterols. Saturation of ocean with oxygen, significant oxygen presence in atmosphere. 
+    
+    + 2.2 billion years ago: Earliest known eukaryotic fossils.   
+    
+    + 2.1 billion years ago: Lesser early supercontinents form
+    
+    + 1.8 billion years ago: Stablization of second continental mass. Early evidence of oxidation corresponding to rise in oxygen levels in atmosphere. Complex eukaryotes evolved. 
+    
+    + 1.3 billion years ago: Earliest evidence of sexually reproducing organisms from single cell eukarya. Early evidence for predation. 
+    
+    + 1.0 billion years ago: First major ice age, glaciation disrupts carbon cycle. 
+    
+    + 550 million years ago: First forms of skeletal life. End of "snowball Earth", earliest arthropods and fungi. Cambrian explosion, sees first emergence of many vertebrates. 
+    
+    + 350 million years ago: Evolution diversifies species of vertebrates. Further increase in oxygenation of atomosphere due to emergence of woody land plants. Pangea emerges. 
+    
+    + 200 million years ago: Dinosaurs! Followed by Permian extinction, loss of 95% species diversity. 
+    
+    + 60 million years ago: Evolution of mammals and other vertebrates. Dramatic global warming followed by ice age.
+    
+    + 2 million years ago - today: Evolution of humans and mammals post ice age. 
+
+
+* Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
+
+    + Hadea: Ball of molten atmosphere and molten crust.
+    
+    + Archean: Early oxgenation of the atmosphere with photosynthesis prokaryotes.
+    
+    + Precambrian: End of snowball Earth. Species see explosion in diversity. Atmosphere and geological properties support different metabolic processes and nutrient cycling at the most basic level. 
+    
+    + Proterozoic: Plants and animals differentiate, causing environmental conditions to support autotrophs and heterotrophs. Greater oxygenation of the atmosphere to support multicellular respiration. 
+    
+    + Phanerozoic: Global warming and cooling cycles between ice age and warming. Causing bloom in species diversity followed by mass extinctions. Atmosphere and geologic conditions become rich in organic nutrients quickly giving birth to new species when the niche is right. Emergence of complex carbon, oxygen, nitrogen, phosphorous, and sulfur cycling. 
+    
+-----------------
 
 ### Module 01 references
 Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
 
-An example for Whitman and Wiebe (1998) has been included below.
-
 Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
