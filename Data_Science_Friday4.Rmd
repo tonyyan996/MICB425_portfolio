@@ -7,16 +7,23 @@ output: html_document
 
 ```{r ggplot}
 
+library(dplyr)
+library(ggplot2)
+
+# Exercise 1
 read.table(file="Saanich.metadata.txt", header=TRUE, row.names=1, sep="\t", na.strings=c("NAN", "NA", "."))
 Saanich_metadata = read.table(file="Saanich.metadata.txt", header=TRUE, row.names=1, sep="\t", na.strings=c("NAN", "NA", "."))
 
 read.table(file="Saanich.OTU.txt", header=TRUE, row.names=1, sep="\t", na.strings=c("NAN", "NA", "."))
 OTU_table = read.table(file="Saanich.OTU.txt", header=TRUE, row.names=1, sep="\t", na.strings=c("NAN", "NA", "."))
 
+# Exercise 2
+select(Saanich_metadata, starts_with("CH4"))
+filter(Saanich_metadata, CH4_nM > 100 & Temperature_C < 10) %>% select(Depth_m)
+transmute(Saanich_metadata, N2O_uM = N2O_nM/1000)
 
-
-
-
-
+# Exercise 3
+select(Saanich_metadata, ends_with("nM")) %>% 
+  mutate(N2O_uM = N2O_nM/1000) %>% mutate(Std_N2O_uM = Std_N2O_nM/1000) %>% mutate(CH4_uM = CH4_nM/1000) %>% mutate(Std_CH4_uM = Std_CH4_nM/1000) 
 
 ```
