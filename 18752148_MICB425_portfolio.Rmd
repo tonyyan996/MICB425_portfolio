@@ -159,7 +159,11 @@ Describe the numerical abundance of microbial life in relation to the ecology an
 
 * Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt? 
 
+  __(Answer): Microbial genomes are horizontally trasferrable, indicating that a higher population size and population diversity will make the community as a whole, more dynamic and flexible to change. When under selection pressure due to a sudden drastic environment shift, microbial genetic diversity and HGT mechanisms ensure that genes necessary for fitness (selected from the few species that may possess them) is passed around the community quickly. __
+
 * What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text? 
+
+  __(Answer): Prokaryotic abundance corresponds more towards the magnitude of metabolic activity in an environment, characterizing the total capacity for the ecosystem to undergo biochemical reactions. Prokaryotic species diversity is logarithmically related to metabolic diversity of the environment, where a greater species diversity contributes to a more diverse reaction sets that could potentially take place, up to an extent where eventually greater species diversity will result in metabolic redundancy.__
 
 ---------
 
