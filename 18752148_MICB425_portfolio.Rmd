@@ -46,7 +46,7 @@ The first of your second level headers (##) is to be used for the portfolio cont
 The remaining second level headers (##) are for separating data science Friday, regular course, and project content. In this module, you will only need to include data science Friday and regular course content; projects will come later in the course.
 
 
-### Installation check
+### Installation check (Data Science Friday 1)
 Use this space to include your installation screenshots.
 
 ![Terminal](https://github.com/tonyyan996/MICB425_portfolio/blob/master/Screenshot1.png?raw=true)
@@ -55,8 +55,26 @@ Use this space to include your installation screenshots.
 
 ![Github](https://github.com/tonyyan996/MICB425_portfolio/blob/master/Screenshot3.png?raw=true)
 
-### Portfolio repo setup
+### Portfolio repo setup (Data Science Friday 2)
 Detail the code you used to create, initialize, and push your portfolio repo to GitHub. This will be helpful as you will need to repeat many of these steps to update your porfolio throughout the course.
+
+__To intialize github account from github:__
+
+stndin: git config --global user.name "Your Name"
+
+stndin: git config --global user.email "youremail@email.com"
+
+__To clone from github master:__
+
+stndin: git clone [git url]
+
+__To pull down from github master:__
+
+stndin: git fetch
+
+stndin: git pull
+
+__To push to github from origin master:__
 
 stndin: git add .
 
@@ -77,11 +95,11 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
 ### General Questions
 #### What were the main questions being asked?
 
-Answer: How many prokaryotes are there in the world? How abundant are they relative to their ecosystems? To what extent do they participate in the global carbon cycling (and nitrogen, phosphorus, etc)?
+(Answer): How many prokaryotes are there in the world? How abundant are they relative to their ecosystems? To what extent do they participate in the global carbon cycling (and nitrogen, phosphorus, etc)?__
 
 #### What were the primary methodological approaches used?
 
-Answer: 
+(Answer): 
 Estimation Methods:
 Water: Sediment density/mL
 Soil: Estimated from unpublished field studies. 
@@ -92,7 +110,7 @@ Carbon estimations: Total organisms multiplied by 1/2 dry weight.
 
 #### Summarize the main results or findings. 
 
-Answer:
+(Answer):
 Essentially nutrient cycle estimations for a variety of environments.
 Total cellular carbon: 350-550 Pg of C
 Total cells: 4-6 x 10^30
@@ -106,11 +124,11 @@ Report statistics about how many prokaryotes are located in different environmen
 
 #### Do new questions arise from the results?
 
-Answer: How does the abundance of the prokaryotes in these environments play a role in the total metabolic potential in their ecosystem? How did the authors compile their calculations into their finalized findings, why did they use the assumptions that they did in doing so? How can the authors be sure that their estimations are accurate and precise? Since they have no discrete controls or replicates? What were the statistical methods used to standardize across environments, between different sampling methodologies?
+(Answer): How does the abundance of the prokaryotes in these environments play a role in the total metabolic potential in their ecosystem? How did the authors compile their calculations into their finalized findings, why did they use the assumptions that they did in doing so? How can the authors be sure that their estimations are accurate and precise? Since they have no discrete controls or replicates? What were the statistical methods used to standardize across environments, between different sampling methodologies?
 
 #### Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
 
-Methods were not fully explained to a point of possible replication of their estimates. 
+(Answer): Methods were not fully explained to a point of possible replication of their estimates. 
 Authors did not provide enough justification to use the assumptions that they did, and does not show how their assumptions may affect their estimates in one way or another.
 
 [Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
@@ -123,51 +141,51 @@ Describe the numerical abundance of microbial life in relation to the ecology an
 #### Specific questions:
 * What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.  
 
-  __(Answer): Marine environments (1.181x10^29) including polar water-ice interfaces, Soil (2.556x10^29), subsurface marine sediments (3.8x10^30), and microbiota.__
+(Answer): Marine environments (1.181x10^29) including polar water-ice interfaces, Soil (2.556x10^29), subsurface marine sediments (3.8x10^30), and microbiota.
 
 * What is the estimated prokaryotic cell abundance in the upper 200 m of the ocean and what fraction of this biomass is represented by marine cyanobacterium including Prochlorococcus? What is the significance of this ratio with respect to carbon cycling in the ocean and the atmospheric composition of the Earth?  
 
-  __(Answer): Upper 200m of ocean: Total number of cells = 3.6x10^28. Versus 2.9x10^27 for autotrophic prochlorococcus. Autotrophs have approximately 8% (4x10^4 / 5x10^5) of the total cell density for upper 200m ocean, meaning that carbon fixation makes up 80% of carbon cycling abundance in ocean, indicating a significant amount of the Earth's carbon dioxide is fixed through the ocean.__
+(Answer): Upper 200m of ocean: Total number of cells = 3.6x10^28. Versus 2.9x10^27 for autotrophic prochlorococcus. Autotrophs have approximately 8% (4x10^4 / 5x10^5) of the total cell density for upper 200m ocean, meaning that carbon fixation makes up 80% of carbon cycling abundance in ocean, indicating a significant amount of the Earth's carbon dioxide is fixed through the ocean.
 
 * What is the difference between an autotroph, heterotroph, and a lithotroph based on information provided in the text?  
 
-  __(Answer): Autotroph: Fixes carbon from carbon dioxide gas. Heterotroph: Uses carbon from organic compounds. Lithotroph: Uses inorganic substances (like minerals) to obtain reducing agents.__
+(Answer): Autotroph: Fixes carbon from carbon dioxide gas. Heterotroph: Uses carbon from organic compounds. Lithotroph: Uses inorganic substances (like minerals) to obtain reducing agents.
 
 * Based on information provided in the text and your knowledge of geography what is the deepest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this depth?  
 
-  __(Answer): Deep habitats supporting life, subsurface separated into terrestrial and marine. Temperature is limiting factor at very high depths in Mariana Trench (10.9km).__
+(Answer): Deep habitats supporting life, subsurface separated into terrestrial and marine. Temperature is limiting factor at very high depths in Mariana Trench (10.9km).
 
 * Based on information provided in the text your knowledge of geography what is the highest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this height?  
 
-  __(Answer): Qualities of air and atmosphere at that environment (Mt Everest 8.8km) also affects growth capabilities.__
+(Answer): Qualities of air and atmosphere at that environment (Mt Everest 8.8km) also affects growth capabilities.
 
 * Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth’s biosphere measured in km?  
 
-  __(Answer): 24km from the highest point to the lowester point on Earth represents the general biosphere.__
+(Answer): 24km from the highest point to the lowester point on Earth represents the general biosphere.
 
 * How was annual cellular production of prokaryotes described in Table 7 column four determined? (Provide an example of the calculation)  
 
-  __(Answer): Population x turnover/yr = cells/yr. e.g. marine heteros -> [3.6x10^28 cells x 365 days]/16 turnovers = 8.2x10^29 cells/yr. Virus affect growth and turnover rate and may contain metabolic assessory genes that can reprogram cells metabolically.__
+(Answer): Population x turnover/yr = cells/yr. e.g. marine heteros -> [3.6x10^28 cells x 365 days]/16 turnovers = 8.2x10^29 cells/yr. Virus affect growth and turnover rate and may contain metabolic assessory genes that can reprogram cells metabolically.
 
 * What is the relationship between carbon content, carbon assimilation efficiency and turnover rates in the upper 200m of the ocean? Why does this vary with depth in the ocean and between terrestrial and marine habitats?  
 
-  __(Answer): Carbon Efficiency = 20%  5-20fg C/cell 10x10^-30 pg/Cell  (3.6x10^28 Cells)x(10x10^-30 pg/cell)= 0.72 Pg carbonin marine heteros. 4x0.72= 2.88 Pg/yr of C. 51 Pg C/yr w/ 85% consumed = 43 Pg C/yr (43 Pg C/yr)/(2.88 Pg/yr) = 14.9, 1 turnover every 24.5 days.__
+(Answer): Carbon Efficiency = 20%  5-20fg C/cell 10x10^-30 pg/Cell  (3.6x10^28 Cells)x(10x10^-30 pg/cell)= 0.72 Pg carbonin marine heteros. 4x0.72= 2.88 Pg/yr of C. 51 Pg C/yr w/ 85% consumed = 43 Pg C/yr (43 Pg C/yr)/(2.88 Pg/yr) = 14.9, 1 turnover every 24.5 days.
 
 * How were the frequency numbers for four simultaneous mutations in shared genes determined for marine heterotrophs and marine autotrophs given an average mutation rate of 4 x 10^-7^ per DNA replication? (Provide an example of the calculation with units. Hint: cell and generation cancel out)  
 
-  __(Answer): (4x10^-7 mutations/generation)^4 (simultaneous mutations) = 2.56x10^26 mutations/generation. 3.6x10^28 cells and 365/16=22.8 turnovers/yr. (3.6x10^28 x 22.8 = 8.2x10^29 Cells/yr x 2.56x10^-26 mutations/generation) = 2.1x10^4 mutations/yr.__
+(Answer): (4x10^-7 mutations/generation)^4 (simultaneous mutations) = 2.56x10^26 mutations/generation. 3.6x10^28 cells and 365/16=22.8 turnovers/yr. (3.6x10^28 x 22.8 = 8.2x10^29 Cells/yr x 2.56x10^-26 mutations/generation) = 2.1x10^4 mutations/yr.
 
 * Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt? 
 
-  __(Answer): Microbial genomes are horizontally trasferrable, indicating that a higher population size and population diversity will make the community as a whole, more dynamic and flexible to change. When under selection pressure due to a sudden drastic environment shift, microbial genetic diversity and HGT mechanisms ensure that genes necessary for fitness (selected from the few species that may possess them) is passed around the community quickly. __
+(Answer): Microbial genomes are horizontally trasferrable, indicating that a higher population size and population diversity will make the community as a whole, more dynamic and flexible to change. When under selection pressure due to a sudden drastic environment shift, microbial genetic diversity and HGT mechanisms ensure that genes necessary for fitness (selected from the few species that may possess them) is passed around the community quickly.
 
 * What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text? 
 
-  __(Answer): Prokaryotic abundance corresponds more towards the magnitude of metabolic activity in an environment, characterizing the total capacity for the ecosystem to undergo biochemical reactions. Prokaryotic species diversity is logarithmically related to metabolic diversity of the environment, where a greater species diversity contributes to a more diverse reaction sets that could potentially take place, up to an extent where eventually greater species diversity will result in metabolic redundancy.__
+(Answer): Prokaryotic abundance corresponds more towards the magnitude of metabolic activity in an environment, characterizing the total capacity for the ecosystem to undergo biochemical reactions. Prokaryotic species diversity is logarithmically related to metabolic diversity of the environment, where a greater species diversity contributes to a more diverse reaction sets that could potentially take place, up to an extent where eventually greater species diversity will result in metabolic redundancy.
 
 ---------
 
-#Pretty_html
+#Pretty_html (Data Science Friday 3)
 ###_Tony Yan (18752148)_
 ###_version 1/24/2018_
 
@@ -272,33 +290,32 @@ Comment on the emergence of microbial life and the evolution of Earth systems
 
 ### Problem set 02
 #### Learning objectives: 
-Discuss	 the	 role	of	microbial	diversity and	 formation	of	coupled	metabolism	in	driving
-global	biogeochemical	cycles.
+Discuss	 the	 role	of	microbial	diversity and	 formation	of	coupled	metabolism	in	driving global	biogeochemical	cycles.
 
 #### General questions:
 * What	 are	 the	 primary	 geophysical	 and	 biogeochemical	 processes	 that	 create	 and	 sustain	conditions	for	life	on	Earth? How	do	abiotic	versus	biotic	processes vary	with	respect	to	matter and	energy	transformation and	how	are	they	interconnected?
 
-  __(Answer): Volcanism and rock weathering and plate tectonics helped to shape the geological conditions for life. Supplies and sinks carbon dioxide and sulfur cycling. __
+(Answer): Volcanism and rock weathering and plate tectonics helped to shape the geological conditions for life. Supplies and sinks carbon dioxide and sulfur cycling.
 
 * Why	is Earth’s	redox	state	considered	an emergent	property?
 
-  __(Answer): Life on earth cannot be attributed to a single factor, therefore, the entire system ought to be examined as a whole. Where the whole is more than a sum of its parts. Many organisms needs to be coupled to other organisms where one biological process can only occur when linked to another.__
+(Answer): Life on earth cannot be attributed to a single factor, therefore, the entire system ought to be examined as a whole. Where the whole is more than a sum of its parts. Many organisms needs to be coupled to other organisms where one biological process can only occur when linked to another.
   
 * How	do reversible	electron transfer	reactions	give rise	to	element and nutrient cycles at different	ecological scales? What	strategies do	microbes use	to	overcome thermodynamic barriers to	reversible electron	flow?
 
-__(Answer): Thermodynamics determines favorable flow of electrons that allows biological reactions to occur spontaneously. Each reaction is spontaneous only in the environment which it occurs in, and in order to revert the reaction, the environmental conditions need to change for the reverse reaction to be spontaneous. This causes nutrients to be generally localized, preventing a global even distribution of nutrients in all environments.__
+(Answer): Thermodynamics determines favorable flow of electrons that allows biological reactions to occur spontaneously. Each reaction is spontaneous only in the environment which it occurs in, and in order to revert the reaction, the environmental conditions need to change for the reverse reaction to be spontaneous. This causes nutrients to be generally localized, preventing a global even distribution of nutrients in all environments. This builds a sort of "economy of scale" within microbial communities. The scale which thermodynamic events can occur is therefore dependent on the energetic favorability of certain organisms/communities of organisms to take place versus others. 
 
 * Using information provided in the text, describe how the nitrogen cycle	partitions between	different redox “niches” and microbial groups. Is there a relationship between the nitrogen	cycle	and climate	change?	
 
-__(Answer): Microbes generally form distirbuted groups that carry out certain metabolic functions within their communities. These groups specialized into niches that carry out only one reaction within the nitrogen cycle. For example a group of organisms that reduces N2 gas to ammonium, and the reverse reaction of oxidizing ammonium are carried out by niches of other communities. Nitrous oxide is a potent greenhouse gas.__
+(Answer): Microbes generally form distirbuted groups that carry out certain metabolic functions within their communities. These groups specialized into niches that carry out only one reaction within the nitrogen cycle. For example a group of organisms that reduces N2 gas to ammonium, and the reverse reaction of oxidizing ammonium are carried out by niches of other communities. Nitrous oxide is a potent greenhouse gas which can be pushed towards with Le Chatelier's principle on a population/community scale. 
 
 * What is	the	relationship between	microbial	diversity	and	metabolic	diversity	and	how	does this relate	to	the	discovery	of new	protein	families from	microbial	community	genomes?
 
-__(Answer): Much of metabolic diversity arises from the adaptation of existing metabolic pathways due to great correlation and co-evolution between microbial species. Microorganisms utilize available resources from their environment in the most thermaldynamically favorable means, which often times result in modulation and altered implementation of existing pathways and enzymes, rather than evolving entirely novel mechanisms. This can be done over time through horizontal gene transfers between species, and emergence of new species from existing ones based on genetic differentiation. As species diversity increases, metabolic diversity increases logarithmically, meaning fewer and fewer new proteins without homologs are discovered for every species discovered.__
+(Answer): Much of metabolic diversity arises from the adaptation of existing metabolic pathways due to great correlation and co-evolution between microbial species. Microorganisms utilize available resources from their environment in the most thermaldynamically favorable means, which often times result in modulation and altered implementation of existing pathways and enzymes, rather than evolving entirely novel mechanisms. This can be done over time through horizontal gene transfers between species, and emergence of new species from existing ones based on genetic differentiation. As species diversity increases, metabolic diversity increases logarithmically, meaning fewer and fewer new proteins without homologs are discovered for every species discovered.
 
 * On	what	basis	do	the	authors	consider	microbes	the	guardians	of	metabolism?
 
-__(Answer): The Authors claim that due to horizontal gene transfer and the general conserved nature of genes that encode metabolic pathway enzymes, microbes that may survive a certain selection pressure can go on to preserve their metabolic capabilities and transfer them to the overall environment. Regardless of what the selection pressures are or how strong they are, certain species will always survive, and they serve as a sort of noah's ark for metabolic genes so that the environment may continue to cycle nutrients.__
+(Answer): The Authors claim that due to horizontal gene transfer and the general conserved nature of genes that encode metabolic pathway enzymes, microbes that may survive a certain selection pressure can go on to preserve their metabolic capabilities and transfer them to the overall environment. Regardless of what the selection pressures are or how strong they are, certain species will always survive, and they serve as a sort of noah's ark for metabolic genes so that the environment may continue to cycle nutrients.
 
 -----------------
 
@@ -327,8 +344,77 @@ _Convert all variables that are in nM to μM. Output a table showing only the or
 
 library(dplyr)
 
-select(Saanich_metadata, ends_with("nM")) %>% 
-  mutate(N2O_uM = N2O_nM/1000) %>% mutate(Std_N2O_uM = Std_N2O_nM/1000) %>% mutate(CH4_uM = CH4_nM/1000) %>% mutate(Std_CH4_uM = Std_CH4_nM/1000) 
+select(Saanich_metadata, ends_with("nM")) %>%
+  mutate(N2O_uM = N2O_nM/1000) %>%
+  mutate(Std_N2O_uM = Std_N2O_nM/1000) %>%
+  mutate(CH4_uM = CH4_nM/1000) %>%
+  mutate(Std_CH4_uM = Std_CH4_nM/1000) 
+
+```
+
+----------------
+
+#Plotting data in R (Data Science Friday 5)
+###Tony Yan
+###version February 08, 2018
+
+### Exercise 1: Plot another nutrient of your choice against depth. Change the points to be purple triangles. 
+```{r ggplot}
+
+library(tidyverse)
+library(phyloseq)
+
+ggplot(Saanich_metadata, aes(x=NO3_uM, y=Depth_m, size=O2_uM)) +
+  geom_point(color="purple", shape=17)
+```
+
+### Excercise 2: Using diplyr, convert temperature variable from Celcius to Fahrenheit. Then create a dot plot of temperature in Fahrenheit against depth.
+```{r convert}
+select(Saanich_metadata, Temperature_C, Depth_m) %>% 
+  mutate(Temperature_F = (Temperature_C * (9/5)+32))
+
+exercise2 = select(Saanich_metadata, Temperature_C, Depth_m) %>% 
+  mutate(Temperature_F = (Temperature_C * (9/5)+32))
+
+ggplot(exercise2, aes(x=Temperature_F, y=Depth_m)) +
+  geom_point(color="red")
+```
+
+### Exercise 3: Create a bar plot at a different taxonomic level with more descriptive x- and y-axis labels as well as a title. Use the ggplot cheatsheet to learn the guides needed to change these labels. 
+```{r barplot}
+load("phyloseq_object.RData")
+physeq_percent = transform_sample_counts(physeq, function(x) 100 * x/sum(x))
+plot_bar(physeq_percent, fill="Class") +
+    geom_bar(aes(fill=Class), stat="identity") +
+  ggtitle("Taxonomic abundance from 10-200 m in Saanich Inlet") +
+  xlab("Saanich Lake Sample Depth") +
+  ylab("Percent abundance from total abundance")
+
+plot_bar(physeq_percent, fill="Phylum") +
+  geom_bar(aes(fill=Phylum), stat="identity") +
+  facet_wrap(~Phylum, scales="free_y") +
+  theme(legend.position="none")
+```
+
+### Exercise 4: Using ggplot, create a faceted figure showing nutrient concentrations in nM for O2, PO4, SiO2, NO3, NH4, and NO2 by depth. For this, you can use either the metadata table or the phyloseq object.
+```{r faceted_figure}
+exercise4 = select(Saanich_metadata, ends_with("uM"), Depth_m) %>%
+  mutate(NH4_nM = NH4_uM*1000) %>%
+  mutate(NO2_nM = NO2_uM*1000) %>%
+  mutate(NO3_nM = NO3_uM*1000) %>%
+  mutate(O2_nM = O2_uM*1000) %>%
+  mutate(PO4_nM = PO4_uM*1000) %>%
+  mutate(SiO2_nM = SiO2_uM*1000)
+
+# Update: Concentrations were listed for "nM" in the assignment page, but later corrected to "uM". Exercise 4 was completed using the original instructions in "nM"
+
+faceted = gather(exercise4, key = "Nutrient", value = "nM", ends_with("nM"))
+
+ggplot(faceted, aes(x=Depth_m, y=nM))+
+  geom_line()+
+  geom_point()+
+  facet_wrap(~Nutrient, scales="free_y") +
+  theme(legend.position="none")
 
 ```
 
