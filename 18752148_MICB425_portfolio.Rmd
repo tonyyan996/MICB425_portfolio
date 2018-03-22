@@ -418,6 +418,76 @@ ggplot(faceted, aes(x=Depth_m, y=nM))+
 
 ```
 
+### Evidence worksheet_03 “The Anthropocene”
+#### Learning objectives: 
+*	Evaluate human impacts on the ecology and biogeochemistry of Earth systems.
+General Questions:
+* What were the main questions being asked?
+
+(Answer): Rockstrom et al. focused on identifying the various limits of each global ecological "boundaries" and how far humans have come to those boundaries. These boundaries includes climate change (atmopheric greenhouse gas), biodiversity loss (rate), nitrogen cycle (artificial fixation), phosphorous cycle (P flowing into ocean), stratospheric ozone depletion, ocean acidification, global freshwater use, land use, and atmospheric/chemical pollution.  
+
+* What were the primary methodological approaches used?
+
+(Answer): Aggregate data based on multiple studies for each individual category was used to propose the boudnary level. The estimations were made conservatively, using rise-adverse approach. For example, greenhouse gas limit was estimated using atmospheric concentration and radiative forcing (rate of energy change per unit area). Other areas are estimated using comparisons of modern day measurements to historical fossil records to determine human impact. 
+
+* Summarize the main results or findings. 
+
+(Answer):
+Proposed Boundaries
+Climate change: 350 parts per million by volume
+Biodiversity loss: 10 per million species per year
+Nitrogen cycle: 35 millions of tonnes N2 per year removed from atmosphere
+Phosphorus cycle: 11 millions of tonnes per year P flowing into ocean
+Stratospheric ozone depletion: 276 Dobson unit
+Ocean Acidification: 2.75 Global mean saturation state of argonite in surface sea water
+Global freshwater use: 4000 km^3 per year
+Change in land use: 15 Percent of global land cover used as cropland
+Atmospheric arosol loading + Chemical polution: TBD
+
+* Do new questions arise from the results?
+
+(Answer): What is a "conservative estimate"? The paper does not indicate how the balance points are determined based on a consequence threshhold. The paper is limited in their approach to demonstrate what impacts of their proposed boundaries versus other proposed boundaries that exist in literature, and fail to demonstrate why theirs is methodologically more robust. 
+
+* Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
+
+(Answer): The Estimation methods were not greatly elaborated, rather their determination of the arbitrary threshhold, although based on aggregate metadata, does not show how the environment shifts in response to these boundaries, and why we should care about their proposed boundaries versus others. 
+
+---------------
+
+# Writing Assignment 1
+
+Prompt: “Microbial life can easily live without us; we, however, cannot survive without the global catalysis and environmental transformations it provides”
+
+Microbes have existed on Earth for eons, about 4 if one were to count. Their diverse evolutionary history is intimately intertwined with teraformation of the planet and its atmosphere, as well as its co-evolutionary relationship with most multicellular vertebrates that have, and will ever exist. The role of microbial life on the thriving flora and fauna of today is immense, but often overshadowed and overlooked by their larger and multicellular counterparts. At least in the eyes of the human conservationalists of today. Through the emergence of advanced molecular genetics techniques (such as genetic engineering and sequencing) and computational biology (bioinformatics) of recent times, humans have collectively just begun to realize (relative to anthropogenic time), and appreciate the biogeochemical role which microbes play to shape our world to be just the way it is. We have now uncovered evidence of early prokaryotic organisms harboring the genes and gene transfer mechanisms to serve as Earth’s Noah’s Ark, through mass extinctions and global biodiversity shifts in history [1]. 
+
+Early evidence of horizontal gene transfer and our models of the emergent genes [1], we see that much of the metabolic and catalytic properties of microbes have been passed on from ancestors to descendants, from a time where the global metabolism is very different than they are today, yet these processes appear to be conserved. Relating that to the great oxygenation events of eons past, a clear trend comes into focus. Microbes shaped our planet; through their ability to carry out global catalysis of environmental nutrients/wastes in scales never thought possible. Figuratively speaking, they are ecologically “omnipotent”, existing in abundances that far outstrip all other living organisms combined. And they are omnipresent, rapidly evolving and filling ecological niches (physical or metabolic) nearly as quickly as they emerge. With rapid mutations and gene transfer capabilities, they are resilient, impossible to wipe out in their entirety [1]. It is foolish and hubris to believe, in any relevant capacity, that any form of intelligent life on Earth can come close to replacing the metabolic roles currently occupied by the microbes, and equally hubris to assume that life on Earth can exist without them. 
+
+But as much as microbes possess qualities that can only be anthropologically compared to gods and deities, microbes need us. They need humans, perhaps now more than ever before; perhaps as much as we need them. Ecologically speaking, times are changing. With humans rapidly industrializing by the minute; evidence shows that humans have significantly altered the Earth’s delicate biogeochemical cycles, such as the nitrogen and carbon cycle, in ways that can no longer be balanced by microbes in their current state [4]. Humans have accomplished this through a timeframe that is ecologically unheard of, and is doing so exponentially. This has been demonstrated to have caused severe, quantifiable, and irreversible biodiversity loss [4]. Simple as it is to substantiate the claim, “humans are unable to survive without the environmental transformation microbes provide”, the reverse is true for the subsequent claim: “Microbial life can easily live without us”, in the status quo.
+
+Microbial life’s greatest strength is largely warranted by its sheer magnitude/abundance to which they can exist. Whitman et al. estimates in “Prokaryotes: the unseen majority” there are 4-6 x 1030 prokaryotic organisms dispersed among general environmental groups: marine, soil, subsurface, and microbiota environments [3]; and their respective carbon cycle participation is anywhere between matching to doubling that of plants and animals [3]. Their total role as nitrogen cycle and phosphorous cycle reservoirs is estimated to be about 10-folds greater than all other living organisms [3]. The massive scale which prokaryotic metabolism operates affords relative stability to perturbations from the environment. “Microbial engines” as modeled by Falkowski and colleagues [1], are relatively robust. However, as with any intricate system, significant shifts or adjustments will destabilize the tightly coevolved microbial engine. Rockstrom argues that modern industrial agricultural processes such as the synthetic fixation of gaseous nitrogen to reduced forms in fertilizer, is causing a multiple-fold increase in nitrogen fixation in the environment, causing destabilization of large marine-environments (eutrophication, anoxia) beyond the ability for the environment to re-stabilize [2]. Rockstrom et al. and Canfield et al. both observed that the amount of industrially fixed nitrogen more than matches all terrestrial processes, contributing significantly to global greenhouse gas emissions, pushing for the formation of nitrous oxide (a potent greenhouse gas), through ecological processes not unlike Le Chatelier’s principle [3, 4]. The phosphorous cycle has experienced a similar phenomenon, where Earth’s natural sediment reservoir is being uplifted by human industry and fed back into the biological phosphorous cycle; that if continued, will lead to anoxia in seas and oceans [3]. Ultimately, long term destabilization of ecological systems will result in large-scale environmental shifts if not corrected for, an extension of the climate change we observe today.
+
+Keen proponents of microbial ecosystem resilience, to artificial influence, would be quick to remark upon the unique prokaryotic capabilities for rapid genetic modification, through the means of direct genetic mutation as well as horizontal gene transfer. Falkowski et al. indeed characterizes the relationship between environmental processes and the microbial genome as a metaphorical “microbial engine”. Falkowski et al. describes, based on molecular evidence (gene order and metabolic distribution), that much of today’s biogeochemical cycles emerged from evolutionary time, through the means of horizontal propagation, which lead to a wide distribution of metabolic genes between events of cellular differentiation [1, 7]. Today we can observe a wide taxonomic range of organisms favoring the sharing of an increasingly conserved pool of global metabolic genes, over the evolution of brand new genes with no known homologs, or at least the ones we know to exist [Falkowski et al, 2008: fig. 3]. The concept of “Microbes as guardians of metabolism” does not describe rapid genetic modifications as a mechanism for increasing short term fitness, but rather for long term evolutionary survival on a population scale. Population genomics through horizontal gene transfer is no doubt capable of maintaining key metabolic machinery in long term within select organisms, much like a Noah’s Ark as an analogy. However, little evidence exists to show that these genetic modulation mechanisms are capable of halting/slowing down biodiversity loss as due to a shift in selection pressure. Even with consideration of the “Microbes as guardians of metabolism” concept, the collective consensus within the scientific community points to the ultimate loss of much of Earth’s microbial diversity seen in the status quo with respect to anthropogenic climate change. 
+
+Earth’s evolutionary history operates in an entirely different timeframe than our anthropogenic history. While the human legacy spans a respectable 200,000 years since the homo sapiens species origin, microbial life has been shaping the fate of Earth since approximately 4 billion years ago. Through this time, numerous rapid environmental changes occurred, which resulted in emergence of new eras of global microbial ecosystems characterized by their impact on the biogeochemical properties of the planet. Using oxygenation of the atmosphere as an example of evolutionary timeframes, Nisbet and Sleep describes early microbial history to be “bottlenecked” by the relative inhospitable conditions that would rapidly arise. Nisbet and Sleep attributes early bottlenecks of life to the relatively low sunlight followed by volcanic and extraterrestrial bombardments [5]. The emergence of oxygenation from the carbon dioxide and ammonium rich early Earth atmosphere had only been accomplished through the evolution of several layers of increasingly specialized phototrophic microorganisms over the course of eons [4, 5], both prokaryotic and eventually eukaryotic. The primary engine component attributed to for the oxygenation of Earth’s atmospheric oxygen composition is the emergence of cyanobacteria. In its current form, it’s emergence was characterized to 2.3 billion years ago, nearly two eons prior to the first emergence of phototrophy [6]. From that point, numerous eras furthered the atmospheric oxygenation needed to sustain vertebrate life. It is safe to say; the Earth will not be repeating the biogeochemical timeframes it once took to deliver humans the world which we live on today. 
+
+For better or for worse, humans have dramatically altered the world in the course of a mere handful of milliseconds following the evolutionary clock analogy. Chris Mooney from the Washington Post article titled: “Scientists say humans have now brought on an entirely new geologic epoch”, claims that the combination of atmospheric modulation and sedimentary disturbances followed by widespread flora and fauna disruption, from human industrial activity, has left enough of impact to become detected in geological history. This warrants the ushering of the “Anthropocene” the era of humans. As evident by the stark contrast in timeframes which the Earth’s microbial engines operates versus humans, the question no longer remains whether microbial engines are capable of driving the planet forward in a manner that sustains our large planetary biodiversity, microbial or otherwise. The new question emerges, whether humans have any role to play in this new global paradigm. 
+
+Continuing with the train of metaphors, Joel Achenbach from the Washington Post article titled: “Spaceship Earth: A new view of metaphors” portrays our planetary metabolic network as a “Spacehship Earth, enter[ing] 2012 belching smoke, overheating and burning through fuel at a frightening rate. It’s feeling pretty crowded, and the crew is mutinous. No one’s at the helm”. Summarizing the reality at hand; humans, through industrialization, has pushed our environmental metabolic network beyond its limits for destabilization; warranted by the introduction of industrially fixed nitrogen and overturned sedimentary phosphorous species among many more. Ultimately resulting in a change in selection pressure, that leads to the shift of ecological conditions away from the status quo and cements a future that is less habitable by the world’s current biodiversity. 
+
+While it is true that microbial life, through horizontal gene transfers, exhibits high metabolic resiliency on the community level, individuals and entire species are put at risk due to environmental metabolic shifting. Microbial metabolic potential will carry on in small populations of microorganisms (Noah’s Ark analogy), but the vast majority of biodiversity will become extinguished in the event of ecological catastrophes. And the impact of this includes a reduced potential for Earth to sustain life, microbial, human, or otherwise, moving forward into the future. 
+
+Whether humans can survive on a planet without microbial catalysis, or whether metabolic potential within small fringe microbial communities can survive through a given human-induced ecological catastrophe, both are fruitless debates. In an ideal “Spaceship Earth”, there ought to be a captain, crew, and engines to keep it all going. Falkowski’s “Microbial engines” represents the baseline catalysis of metabolites by microbial genomic potential, but ultimately requires human intervention, a “captain at the helm” to offset evolutionary forces acting on a human destabilized ecosystem. Joel Achenbach outlines how the time for interventionist ecology is now, and that humans are in a better position technologically and logistically than ever before to offset the industrial metabolites that are being offloaded into the natural nutrient cycles [2, 4]. Humans are capable of renewable energy, biochemical/atmospheric engineering, and molecular genetics techniques all readily implementable to tackle the ecological damage in a directed and stepwise manner. Humans are becoming smarter, faster, and more just, at least according to Joel from “Spaceship Earth”. Socioeconomic infrastructure is developing alongside technological ones to promote sustainable growth, responsible development, and a more wholly encompassing worldview that spans beyond the human race. Maybe, just maybe, there can exist a future where intelligent life co-exists with microbial catalysis on the global scale that promotes symbiosis between mother nature, and sentient industriousness. 
+
+References:
+
+1.	Falkowski PG, Fenchel T, Delong EF. 2008. The Microbial Engines That Drive Earth’s Biological Cycles. Science 320:1034-1038. 
+2.	Rocksrtrom J, et al. 2009. A safe operating space for humanity. Nature 461:472-475
+3.	Whitman WB, Coleman DC, Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc. Natl. Acad. Sci. 95:6578-6583. 
+4.	Canfield DE, Glazer AN, Falkowski PG. 2010. The Evolution and Future of Earth’s Nitrogen Cycle. Science 330:192-196.
+5.	Nisbet EG, Sleep NH. 2001. The habitat and nature of early life. Nature 409:1083-1091.
+6.	Kasting JF, Siefert JL. 2003. Life and the Evolution of Earth’s Atmosphere. Science 296:1066-1067. 
+7.	Falkowski PG et al. 2000. The Global Carbon Cycle. Science 290:291-296. 
+
 ----------------
 
 ### Module 01 references
@@ -425,3 +495,464 @@ Utilize this space to include a bibliography of any literature you want associat
 
 Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
 
+
+# Module 02
+
+## Module 02 portfolio check
+The first of your second level headers (##) is to be used for the portfolio content checks. The Module 01 portfolio check has been built for you directly into this template, but will also be available as a stand-alone markdown document available on the MICB425 GitHub so that you know what is required in each module section in your portfolio. The completion status and comments will be filled in by the instructors during portfolio checks when your current portfolios are pulled from GitHub.
+
+* Evidence worksheet_04
+    + Completion status:
+    + Comments:
+* Problem Set_03
+    + Completion status:
+    + Comments:
+* Additional Readings
+    + Completion status:
+    + Comments 
+
+### Evidence Worksheet_04
+### Learning objectives:
+* Discuss the relationship between microbial community structure and metabolic diversity
+* Evaluate common methods for studying the diversity of microbial communities
+* Recognize basic design elements in metagenomic workflows
+
+### General Questions:
+* What were the main questions being asked?
+
+(Answer): To understand to a greater genetics and biochemical degree regarding the functional capacity of proteorhodopsins and their effects on the microbial metabolic potential and their ability to enhance growth when transferred via HGT.
+
+* What were the primary methodological approaches used?
+
+(Answer): Functional screening through large insertion library of clones expressing PR photosystems. Transposon mutants were analyzed for biochemical products of the PR genes. Heterologous expression experiments were used to show that the PR genes can be aquired through HGT and that phototrophy is a transient property.
+
+* Summarize the main results or findings. 
+
+(Answer): Functional screens of metagenomic libraries without cloning was able to achieve higher levels of recombinant gene expression into detectable phenotypes. Using these methods, they identified and developed a method to demonstrate that PR genes can be transferred and heterologously expressed, while to an extent that can substantially alter the growth rates of organisms that uptake this system. 
+
+* Do new questions arise from the results?
+
+(Answer): How do bacteria gather these genes and transfer them in reality? (AKA, not in a controlled test environment where the mechanism is determined as a manipulated variable)? Is there evidence of enhanced growth in PR capable species in nature by such things as abundance measurements in recovered sequencing reads?
+
+* Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
+
+(Answer): One of the biggest assumptions made is that ATP synthesis was measured as a proxy for the growth rates. It is unclear/incomplete that the author is using a proxy for growth rather than measuring the growth exactly. Building more ATP does not represent a true measure for growth since having more temporary energy sources does not necessarily dictate the growth of an organism in the actual environment. 
+
+-------------
+
+### Problem set_03 “Metagenomics: Genomic Analysis of Microbial Communities”
+#### Learning objectives: 
+Specific emphasis should be placed on the process used to find the answer. Be as comprehensive as possible e.g. provide URLs for web sources, literature citations, etc.  
+*(Reminders for how to format links, etc in RMarkdown are in the RMarkdown Cheat Sheets)*
+
+#### Specific Questions:
+* How many prokaryotic divisions have been described and how many have no cultured representatives (microbial dark matter)?
+
+(Answer): As of 2003, 26 of the 52 major bacterial phyla have been cultured, only about 50%. The estimate is far fewer now, with more uncultured species being discovered. In 2016, only 89 bactetial phyla and 20 archeal phyla (examined via the 16s rRNA databases). All of this amounts to approximately 1% of microbes in a given ecological niche is cultivatable.   
+
+* How many metagenome sequencing projects are currently available in the public domain and what types of environments are they sourced from?
+
+(Answer): Thousands are available in the public domain, sourcing from a wide range of environments from marine to soil environments. With microbiota, marine, sediments, and aquatic being some of the more prevalent environments. These projects shed light on difficult to culture/uncultured organisms from those environments.  
+
+* What types of on-line resources are available for warehousing and/or analyzing environmental sequence information (provide names, URLS and applications)?  
+
+(Answer): 
+Oulas, Anastasis, et al. 2015. Metagenomics: Tools and insights for analyzing next-generation sequencing data derived from biodiversity studies. Bioinformatics and biology insights 9:BBI-S12462.
+
+Siegwald, Lea, et al. 2017. Assessment of common and emerging bioinformatics pipelines for targeted metagenomics. PLoS One 12.1:e0169563.
+
+Assembly: Euler, MEGAHIT, VELVET
+Binning: MaxBin, S-GCOM
+Annotation: KEGG, COG, Metacyc, SILVA
+Analysis Pipelines: Megan5
+Standalone Software: OTUbase
+Denoising: AmpliconNoise
+Databses: Ribosomal Database Project, Refseq, SILVA
+
+* What is the difference between phylogenetic and functional gene anchors and how can they be used in metagenome analysis?   
+
+(Answer): Phylogenetic gene anchors differ from functional ones in that phylogenetic anchors represent conserved regions of essential genes that can be a base of comparison between most/all organsims. Such genes do not undergo divergent mutations due to their necessity in sustaining biological life. Functional gene anchors are a base of comparison not between organisms themselves, but between functions and metabolic steps that is investigated. Will show the convergence/divergence of a metabolic process as a whole rather than the composition of the community within. 
+
+* What is metagenomic sequence binning? What types of algorithmic approaches are used to produce sequence bins? What are some risks and opportunities associated with using sequence bins for metabolic reconstruction of uncultivated microorganisms?  
+
+(Answer): Binning is the process of grouping sequences in the aim of reconstructing the genome of a single organism from a large set of genome data. 
+Algorithm:
+1. Align sequence to database (guided binning)
+2. Grouping based on DNA characteristics such as GC content (denovo)
+Risks: Incomplete coverage of the genome sequence (very likely), or contamination from different phylogeny. 
+
+* Is there an alternative to metagenomic shotgun sequencing that can be used to access the metabolic potential of uncultivated microorganisms? What are some risks and opportunities associated with this alternative?  
+
+(Answer): Single cell genomics through cell sorting (with FACs or the likes), and reconstructing the genomes of single cells is the emerging field that contrasts with WGS. The advantages is that single cell genomes are much less likely to suffer from high phylogenetic contamination, but due to the sampling method (sampling bias), the coverage of the genome may not be very good, yielding low completeness. 
+## Module 03 Portfolio Content
+
+* Evidence worksheet_05
+    + Completion status:
+    + Comments:
+* Problem set_04
+    + Completion status:
+    + Comments:
+* Writing Assessment_03
+    + Completion status:
+    + Comments:
+* Additional Readings
+    + Completion status:
+    + Comments 
+    
+### Problem set_04 “Fine-scale phylogenetic architecture”
+#### Learning objectives: 
+
+* Gain experience estimating diversity within a hypothetical microbial community
+
+#### Part 1: Description and enumeration
+Obtain a collection of "microbial" cells from "seawater". The cells were concentrated from different depth intervals by a marine microbiologist travelling along the Line-P transect in the northeast subarctic Pacific Ocean off the coast of Vancouver Island British Columbia. 
+
+Sort out and identify different microbial "species" based on shared properties or traits. Record your data in this Rmarkdown using the example data as a guide.
+
+Once you have defined your binning criteria, separate the cells using the sampling bags provided. These operational taxonomic units (OTUs) will be considered separate "species". This problem set is based on content available at [What is Biodiversity](http://cnx.org/content/m12179/latest/).
+
+For example, load in the packages you will use.
+```{r message=FALSE}
+#To make tables
+library(kableExtra)
+library(knitr)
+#To manipulate and plot data
+library(tidyverse)
+```
+
+Then load in the data. You should use a similar format to record your community data.
+```{r}
+example_data1 = data.frame(
+  number = c(1,2,3),
+  name = c("lion", "tiger", "bear"),
+  characteristics = c("brown cat", "striped cat", "not a cat"),
+  occurences = c(2, 4, 1)
+)
+
+```
+
+Finally, use these data to create a table.
+```{r}
+example_data1 %>% 
+  kable("html") %>%
+  kable_styling(bootstrap_options = "striped", font_size = 10, full_width = F)
+
+```
+	
+For your sample:
+
+* Construct a table listing each species, its distinguishing characteristics, the name you have given it, and the number of occurrences of the species in the collection.
+* Ask yourself if your collection of microbial cells from seawater represents the actual diversity of microorganisms inhabiting waters along the Line-P transect. Were the majority of different species sampled or were many missed? 
+
+```{r part1}
+
+candy_counts = read.table(file="Candy_counts.csv", header=TRUE, sep=",", na.strings=c("NAN", "NA", "."))
+candy_table = candy_counts %>% kable("html")
+
+# The collection of microbial cells from seawater missed many species, especially if they were already in low abundance. 
+
+```
+#### Part 2: Collector's curve
+To help answer the questions raised in Part 1, you will conduct a simple but informative analysis that is a standard practice in biodiversity surveys. This analysis involves constructing a collector's curve that plots the cumulative number of species observed along the y-axis and the cumulative number of individuals classified along the x-axis. This curve is an increasing function with a slope that will decrease as more individuals are classified and as fewer species remain to be identified. If sampling stops while the curve is still rapidly increasing then this indicates that sampling is incomplete and many species remain undetected. Alternatively, if the slope of the curve reaches zero (flattens out), sampling is likely more than adequate.
+
+To construct the curve for your samples, choose a cell within the collection at random. This will be your first data point, such that X = 1 and Y = 1. Next, move consistently in any direction to a new cell and record whether it is different from the first. In this step X = 2, but Y may remain 1 or change to 2 if the individual represents a new species. Repeat this process until you have proceeded through all cells in your collection.
+
+For example, we load in these data.
+```{r example}
+example_data2 = data.frame(
+  x = c(1,2,3,4,5,6,7,8,9,10),
+  y = c(1,2,3,4,4,5,5,5,6,6)
+)
+```
+
+And then create a plot. We will use a scatterplot (geom_point) to plot the raw data and then add a smoother to see the overall trend of the data.
+```{r example_graph}
+ggplot(example_data2, aes(x=x, y=y)) +
+  geom_point() +
+  geom_smooth() +
+  labs(x="Cumulative number of individuals classified", y="Cumulative number of species observed")
+```
+
+For your sample:
+
+* Create a collector's curve.
+* Does the curve flatten out? If so, after how many individual cells have been collected?
+* What can you conclude from the shape of your collector's curve as to your depth of sampling?
+
+```{r part2}
+
+candy_count_collector = data.frame(
+  x = c(5,6,7,10,20,28,34,41,44,46,47,50,53,59,60,61,62,63,64,65,66,75,79,84,91,97,102,106,112,129,142,145,146,147),
+  y = c(1,2,3,4,4,4,4,4,5,5,5,5,5,5,6,7,7,8,9,9,9,10,10,10,10,10,11,11,11,11,11,11,12,13)
+)
+
+ggplot(candy_count_collector, aes(x=x, y=y)) +
+  geom_point() +
+  geom_smooth() +
+  labs(x="Cumulative number of individuals classified", y="Cumulative number of species observed")
+
+# The curve flattens out at around 12 species, the total number of individuals collected is 147.
+# In the beginning and towards the end, sampling individuals doesn't increase the species much, but in the middle, sampling more individuals is corresponded with a rapid increase of species.
+```
+#### Part 3: Diversity estimates (alpha diversity)
+Using the table from Part 1, calculate species diversity using the following indices or metrics.
+
+##### Diversity: Simpson Reciprocal Index
+
+$\frac{1}{D}$ where $D = \sum p_i^2$
+
+$p_i$ = the fractional abundance of the $i^{th}$ species
+
+For example, using the example data 1 with 3 species with 2, 4, and 1 individuals each, D =
+
+```{r}
+species1 = 2/(2+4+1)
+species2 = 4/(2+4+1)
+species3 = 1/(2+4+1)
+
+1 / (species1^2 + species2^2 + species3^2)
+
+
+Kiss = 5/147
+Red_candy = 1/147
+Red_long_candy = 1/147
+Mike_ike = 34/147
+Gummy_bear = 18/147
+Lego_square = 1/147
+Lego = 2/147
+Spider = 1/147
+Big_round = 3/147
+Skittle = 31/147
+MM = 48/147
+Fish = 1/147
+cloud = 1/147
+
+Simpsons = 1/ (Kiss^2 + Red_candy^2 + Red_long_candy^2 + Mike_ike^2 + Gummy_bear^2 + Lego_square^2 + Lego^2 + Spider^2 + Big_round^2 + Skittle^2 + MM^2 + Fish^2 + cloud^2)
+
+```
+
+The higher the value is, the greater the diversity. The maximum value is the number of species in the sample, which occurs when all species contain an equal number of individuals. Because the index reflects the number of species present (richness) and the relative proportions of each species with a community (evenness), this metric is a diveristy metric. Consider that a community can have the same number of species (equal richness) but manifest a skewed distribution in the proportion of each species (unequal evenness), which would result in different diveristy values.
+
+* What is the Simpson Reciprocal Index for your sample?
+
+##### Richness: Chao1 richness estimator
+Another way to calculate diversity is to estimate the number of species that are present in a sample based on the empirical data to give an upper boundary of the richness of a sample. Here, we use the Chao1 richness estimator. 
+
+$S_{chao1} = S_{obs} + \frac{a^2}{2b})$
+
+$S_{obs}$ = total number of species observed
+a = species observed once
+b = species observed twice or more
+
+So for our previous example community of 3 species with 2, 4, and 1 individuals each, $S_{chao1}$ =
+
+```{r}
+3 + 1^2/(2*2)
+
+Chao1 = (13 + ((6^2)/(2*7)))
+```
+
+* What is the chao1 estimate for your sample?
+
+#### Part 4: Alpha-diversity functions in R
+We've been doing the above calculations by hand, which is a very good exercise to aid in understanding the math behind these estimates. Not surprisingly, these same calculations can be done with R functions. Since we just have a species table, we will use the `vegan` package. You will need to install this package if you have not done so previously. 
+
+```{r message=FALSE}
+library(vegan)
+```
+
+First, we must remove the unnecesary data columns and transpose the data so that `vegan` reads it as a species table with species as columns and rows as samples (of which you only have 1).
+```{r}
+example_data1_diversity = 
+  example_data1 %>% 
+  select(name, occurences) %>% 
+  spread(name, occurences)
+
+example_data1_diversity
+
+candy2 = read.table(file="candy2.csv", header=TRUE, sep=",", na.strings=c("NAN", "NA", "."))
+
+candy_diversity =
+  candy2 %>%
+  select(Name, Count) %>%
+  spread(Name, Count)
+```
+
+Then we can calculate the Simpson Reciprocal Index using the `diversity` function.
+```{r}
+diversity(example_data1_diversity, index="invsimpson")
+
+diversity(candy_diversity, index="invsimpson")
+```
+
+And we can calculate the Chao1 richness estimator (and others by default) with the the `specpool` function for extrapolated species richness. This function rounds to the nearest whole number so the value will be slightly different that what you've calculated above.
+```{r}
+specpool(example_data1_diversity)
+
+specpool(candy_diversity)
+```
+
+In Project 1, you will also see functions for calculating alpha-diversity in the `phyloseq` package since we will be working with data in that form.
+
+For your sample:
+
+* What is the Simpson Reciprocal Index using the R function?
+* What is the chao1 estimate using the R function?
+    + Verify that these values match your previous calculations.
+
+```{r}
+Community_total1 = data.frame(
+  number = c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20),
+  name = c("kiss", "red short string", "red long string", "white spiral", "mike ike", "watermelon", "gummy bear", "marshmallow bear", "lego square", "lego rectangle", "coke", "spider", "big round candy", "skittle", "m&m", "fish", "elongated noodle", "elongated cloud", "elongated oval", "elongated diamond"),
+  characteristics = c("teardrop shape", "short string", "long string", "large ellipsoid flat", "rounded rod", "rectangular", "clear bear shape", "opaque bear shape", "large square brick", "small rectangular brick", "coke bottle shape", "spider shape", "sphere", "ellipsoid round", "small elipsoid flat", "fish shape", "short noodle shape", "cloud shape", "oval", "diamond"),
+  occurences = c(16,6,10,3,172,1,99,3,3,15,3,6,24,187,243,1,4,3,1,1)
+)
+```
+
+Part 2: Collector's Curve
+```{r}
+Community_sample1 = data.frame(
+  x = c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20),
+  y = c(0,2,6,7,41,41,57,57,57,62,62,64,70,110,164,164,164,164,165,165)
+)
+```
+
+```{r}
+ggplot(Community_sample1, aes(x=x, y=y)) +
+  geom_point() +
+  geom_smooth() +
+  labs(x="Cumulative number of individuals classified", y="Cumulative number of species observed")
+```
+
+Part 3: Diversity estimates (alpha diversity)
+Simpson Reciprocal Index (Community)
+```{r}
+species1 = 16/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species2 = 6/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species3 = 10/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species4 = 3/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species5 = 172/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species6 = 1/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species7 = 99/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species8 = 3/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species9 = 3/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species10 = 15/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species11 = 3/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species12 = 6/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species13 = 24/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species14 = 187/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species15 = 243/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species16 = 1/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species17 = 4/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species18 = 3/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species19 = 1/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+species20 = 1/(16+6+10+3+172+1+99+3+3+15+3+6+24+187+243+1+4+3+1+1)
+
+1 / (species1^2 + species2^2 + species3^2 + species4^2 + species5^2 + species6^2 + species7^2 + species8^2 + species9^2 + species10^2 + species11^2 + species12^2 + species13^2 + species14^2 + species15^2 + species16^2 + species17^2 + species18^2 + species19^2 + species20^2)
+```
+
+Simpson Reciprocal Index (Sample)
+```{r}
+species1 = 0/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species2 = 2/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species3 = 4/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species4 = 1/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species5 = 34/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species6 = 0/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species7 = 16/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species8 = 0/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species9 = 0/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species10 = 5/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species11 = 0/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species12 = 2/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species13 = 6/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species14 = 30/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species15 = 54/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species16 = 0/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species17 = 0/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species18 = 0/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species19 = 1/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+species20 = 0/(0+2+4+1+34+0+16+0+0+5+0+2+6+40+54+0+0+0+1+0)
+
+1 / (species1^2 + species2^2 + species3^2 + species4^2 + species5^2 + species6^2 + species7^2 + species8^2 + species9^2 + species10^2 + species11^2 + species12^2 + species13^2 + species14^2 + species15^2 + species16^2 + species17^2 + species18^2 + species19^2 + species20^2)
+```
+
+Chao1 Richness Estimator (Community)
+```{r}
+20 + 4^2/(16*2)
+```
+
+Chao1 Richness Estimator (Sample)
+```{r}
+11 + 2^2/(9*2)
+```
+
+Part 4: Alpha-diversity functions in R
+```{r}
+library(vegan)
+
+Community_total1_diversity = 
+  Community_total1 %>% 
+  select(name, occurences) %>% 
+  spread(name, occurences)
+
+Community_total1_diversity
+
+diversity(Community_total1_diversity, index="invsimpson")
+specpool(Community_total1_diversity)
+```
+
+
+#### Part 5: Concluding activity
+If you are stuck on some of these final questions, reading the [Kunin et al. 2010](https://www.ncbi.nlm.nih.gov/pubmed/19725865) and [Lundin et al. 2012](https://www.ncbi.nlm.nih.gov/pubmed/23760801) papers may provide helpful insights. 
+
+* How does the measure of diversity depend on the definition of species in your samples?
+(Answer): Depending on what characteristeristics we choose to group individuals, a species is simply a category that can be bigger or smaller depending on what we choose to put inside it. 
+* Can you think of alternative ways to cluster or bin your data that might change the observed number of species?
+(Answer): Change the characteristics that we choose to cluster together as species (such as by color instead of by candy brand).
+* How might different sequencing technologies influence observed diversity in a sample?
+(Answer): Different sequencing types require different post-sequencing quality controls and assembly criterion which introduces different levels of sequencing error, and their corresponding computational biases depending on how the sequences are processed. 
+
+### Evidence Worksheet_04
+### Learning objectives:
+* Discuss the relationship between microbial community structure and metabolic diversity
+* Evaluate common methods for studying the diversity of microbial communities
+* Recognize basic design elements in metagenomic workflows
+
+### General Questions:
+* What were the main questions being asked?
+
+(Answer): What are some of the differences between pathogenic strains of E.coli and non-pathogenic strains on the genome level? What genes and genomic constructs differentiates them and gives certain strains their pathogenic qualities? Are these qualities transient?
+
+* What were the primary methodological approaches used?
+
+(Answer): Basic sequence annotation through annotating ORFs from sequences and BLAST hits were annotated to the ORFs and the genomes were compared after assembly. 
+
+* Summarize the main results or findings. 
+
+(Answer): They found that the primary genes responsible for pathogenecity is a type III secretion system and its corresponding toxin. Other notable features differentiating between pathogenecity and docility are presence of iron-sequestering systems, adhesins, autotransporters, and recombinases. These exist in pathogenecity islands which disrupts the paradigm that these genes were vertically evolved. 
+
+* Do new questions arise from the results?
+
+(Answer): They compared the genetic traits of the pathogenecity islands to determine the likelihood of having been inherited horizontally. If they were to have done the same with the host genomes, wouldn't they find substantial variation wthin the sequences? If so, how can they determine if something was not a part of the genome inherited vertically if they have no explicit control?
+
+* Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
+
+(Answer): With the limit of the databse, it is hard to address where the pathogenic islands have come from. The authors did not do a screen through characterized phages or other bacterial species. It is confusing how they laid out figure 3, it is unclear which part of the genome that they are referring to, and how one vertical line can be represented as 100kbp. 
+
+### Part 2: Learning objectives:
+* Comment on the creative tension between gene loss, duplication and aquisition as it relates to microbial genome evolution.
+
+(Answer): Horizontal gene evolution convolutes what we understand about vertical inheritance since we have no explicit controls of genomes that have never been evolutionarily touched by HGT. But due to this phenomenon, we see transient genes in places where they we would normally expect. To understand evolution, HGT and VGT need to be considered together, despite our best efforts to denoise HGT while studying lineages of genes/organisms. 
+
+* Identify common molecular signatures used to infer genomic identity and cohesion.
+
+(Answer): Genomic identity within a genome can be inferred with codon biases, GC content, and relative gene location that may give a clue to whether the genes existed within an organism to an extent long enough to have observably co-evolved with other genes in the organism.
+
+* Differentiate between mobile elements and different modes of gene transfer. 
+
+(Answer): Phages, Transposons, Plasmids, Transformation (conjugations), Recombination. Mobile genetic elements include plasmids and phage-packaged DNA. Mobile genetic elements are elements able to replicate themselves and are innately transient, while other types of gene transfer may rely on mechanisms by the cells or phage to be transient. 
+
+Based on your reading and discussion notes, explain the meaning and content of the following figure derived from the comparative genomic analysis of three E. coli genomes by Welch et al. Remember that CFT073 is a uropathogenic strain and that EDL933 is an enterohemorrhagic strain. Explain how this study relates to your understanding of ecotype diversity. Provide a definition of ecotype in the context of the human body. Explain why certain subsets of genes in CFT073 provide adaptive traits under your ecological model and speculate on their mode of vertical descent or gene transfer.
+
+(Answer): Comparing the two phenotypically distinct strains, we see that their pathogenecity islands are relatively similar with similar genes occuplying locus that are similar as well. They share a number of genes and even for genes that are different, occupy similar locational patterns also. This is evidence that these PAIs originated in some common ancestor and was somehow either horizontally or vertically distributed to these strains. With otherwise similar genomes, these "ecotypes" of bacteria are represent "distinct" forms of their species that occupy an ecological niche within a given environment. These "distinct" forms are highly subjective and in this case, can even fall upon transient properties, allowing the bacteria to gain or lose an "ecotype" based on HGT. 
