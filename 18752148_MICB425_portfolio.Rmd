@@ -46,7 +46,7 @@ The first of your second level headers (##) is to be used for the portfolio cont
 The remaining second level headers (##) are for separating data science Friday, regular course, and project content. In this module, you will only need to include data science Friday and regular course content; projects will come later in the course.
 
 
-### Installation check (Data Science Friday 1)
+## Installation check (Data Science Friday 1)
 Use this space to include your installation screenshots.
 
 ![Terminal](https://github.com/tonyyan996/MICB425_portfolio/blob/master/Screenshot1.png?raw=true)
@@ -134,7 +134,7 @@ Authors did not provide enough justification to use the assumptions that they di
 [Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
 ---------------
 
-### Problem set 01
+## Problem set 01
 #### Learning objectives: 
 Describe the numerical abundance of microbial life in relation to the ecology and biogeochemistry of Earth systems.
 
@@ -234,7 +234,7 @@ And now you’ve almost finished your first RMarkdown! Feeling excited? We are! 
 
 ----------
 
-### Evidence Worksheet_02 “Life and the Evolution of Earth’s Atmosphere”
+## Evidence Worksheet_02 “Life and the Evolution of Earth’s Atmosphere”
 #### Learning objectives: 
 Comment on the emergence of microbial life and the evolution of Earth systems
     
@@ -288,7 +288,7 @@ Comment on the emergence of microbial life and the evolution of Earth systems
     
 -----------------
 
-### Problem set 02
+## Problem set 02
 #### Learning objectives: 
 Discuss	 the	 role	of	microbial	diversity and	 formation	of	coupled	metabolism	in	driving global	biogeochemical	cycles.
 
@@ -319,7 +319,7 @@ Discuss	 the	 role	of	microbial	diversity and	 formation	of	coupled	metabolism	i
 
 -----------------
 
-# Working with Data in R (Data science Friday 4)
+## Working with Data in R (Data science Friday 4)
 ###_Tony Yan (18752148)_
 ###_version 1/31/2018_
 
@@ -354,7 +354,7 @@ select(Saanich_metadata, ends_with("nM")) %>%
 
 ----------------
 
-#Plotting data in R (Data Science Friday 5)
+##Plotting data in R (Data Science Friday 5)
 ###Tony Yan
 ###version February 08, 2018
 
@@ -418,7 +418,7 @@ ggplot(faceted, aes(x=Depth_m, y=nM))+
 
 ```
 
-### Evidence worksheet_03 “The Anthropocene”
+## Evidence worksheet_03 “The Anthropocene”
 #### Learning objectives: 
 *	Evaluate human impacts on the ecology and biogeochemistry of Earth systems.
 General Questions:
@@ -454,7 +454,7 @@ Atmospheric arosol loading + Chemical polution: TBD
 
 ---------------
 
-# Writing Assignment 1
+## Writing Assignment 1
 
 Prompt: “Microbial life can easily live without us; we, however, cannot survive without the global catalysis and environmental transformations it provides”
 
@@ -495,6 +495,7 @@ Utilize this space to include a bibliography of any literature you want associat
 
 Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
 
+-----------------
 
 # Module 02
 
@@ -540,7 +541,7 @@ The first of your second level headers (##) is to be used for the portfolio cont
 
 -------------
 
-### Problem set_03 “Metagenomics: Genomic Analysis of Microbial Communities”
+## Problem set_03 “Metagenomics: Genomic Analysis of Microbial Communities”
 #### Learning objectives: 
 Specific emphasis should be placed on the process used to find the answer. Be as comprehensive as possible e.g. provide URLs for web sources, literature citations, etc.  
 *(Reminders for how to format links, etc in RMarkdown are in the RMarkdown Cheat Sheets)*
@@ -584,6 +585,11 @@ Risks: Incomplete coverage of the genome sequence (very likely), or contaminatio
 * Is there an alternative to metagenomic shotgun sequencing that can be used to access the metabolic potential of uncultivated microorganisms? What are some risks and opportunities associated with this alternative?  
 
 (Answer): Single cell genomics through cell sorting (with FACs or the likes), and reconstructing the genomes of single cells is the emerging field that contrasts with WGS. The advantages is that single cell genomes are much less likely to suffer from high phylogenetic contamination, but due to the sampling method (sampling bias), the coverage of the genome may not be very good, yielding low completeness. 
+
+-----------------
+
+# Module 03
+
 ## Module 03 Portfolio Content
 
 * Evidence worksheet_05
@@ -595,11 +601,11 @@ Risks: Incomplete coverage of the genome sequence (very likely), or contaminatio
 * Writing Assessment_03
     + Completion status:
     + Comments:
-* Additional Readings
+* Project_1
     + Completion status:
-    + Comments 
+    + Comments:
     
-### Problem set_04 “Fine-scale phylogenetic architecture”
+## Problem set_04 “Fine-scale phylogenetic architecture”
 #### Learning objectives: 
 
 * Gain experience estimating diversity within a hypothetical microbial community
@@ -956,3 +962,48 @@ If you are stuck on some of these final questions, reading the [Kunin et al. 201
 Based on your reading and discussion notes, explain the meaning and content of the following figure derived from the comparative genomic analysis of three E. coli genomes by Welch et al. Remember that CFT073 is a uropathogenic strain and that EDL933 is an enterohemorrhagic strain. Explain how this study relates to your understanding of ecotype diversity. Provide a definition of ecotype in the context of the human body. Explain why certain subsets of genes in CFT073 provide adaptive traits under your ecological model and speculate on their mode of vertical descent or gene transfer.
 
 (Answer): Comparing the two phenotypically distinct strains, we see that their pathogenecity islands are relatively similar with similar genes occuplying locus that are similar as well. They share a number of genes and even for genes that are different, occupy similar locational patterns also. This is evidence that these PAIs originated in some common ancestor and was somehow either horizontally or vertically distributed to these strains. With otherwise similar genomes, these "ecotypes" of bacteria are represent "distinct" forms of their species that occupy an ecological niche within a given environment. These "distinct" forms are highly subjective and in this case, can even fall upon transient properties, allowing the bacteria to gain or lose an "ecotype" based on HGT. 
+
+
+## Writing Assignment 3
+
+	When Charles Darwin published his theories on evolution and natural selection being driving forces for biological change in his book: “On the Origin of Species”, the concept of “microbial ecology” was but in its infancy. At that time, the concept of “species”, in other words, a unit of taxonomic similarity to which a group of organisms may collectively share a number of attributes, was only rudimentarily defined. The primary operational definition of a species, or a taxonomic group in general, consisted of phenotypical or sometimes behavioral characteristics of organisms that marked their similarity, or lack thereof. It is through these empirically derived observations on organisms that first emerged the concept of a “species”. Darwin’s classical school of thought served well into the 20th century, when the concept of taxonomy was sufficient to characterize and categorize much of the observable life on the planet. However, as technology grew, so did our ability to observe the previously unobservable. This manifested itself through the growth of microbiology and microbial ecology. As an increasing number of organisms become cultured and studied, the traditional rules, binding taxonomic groups together based on phenotypical similarity, begins to show its weakness and obsolescence. Furthermore, the introduction of genome sequencing punched the final hole in Darwin’s sinking ship. It became apparent that phenotypical similarity is no longer sufficient to describe the similarity between organisms, and even less so for inferring evolutionary history. 
+
+	In the new age of molecular genetics, high throughput genome sequencing, and bioinformatics tools, observing microbial phenotypes is no longer a feasible nor indicative means of understanding relativeness of microorganisms. Understanding the properties of the genome has led us to understand that the phenotypical characteristics of organisms is in-fact the result of complicated series of mechanisms that regulate, express, exchange, and inherit genes within their respective genomes. Natural selection, long thought to be the driving force for observable phenotype change, was actually acting on a molecular scale; altering and selecting combinations of nucleotides. Thus, the minute similarities and differences between genes and genomes proved to be a better representation of microbial species and to represent their evolutionary heritage. Genetics was not only a paradigm shift for the microbial species concept, but also penetrated on biologists’ perception on eukaryotic, multicellular organisms, and even into the long-regarded traditionalist: botanical and zoological domains of life. 
+
+	Earliest attempts to use genomics for characterizing microbial species came with the seemingly obvious approach, to directly compare one genome with another. Early genetics held the school of thought that if evolution acted on all life by applying selection pressure on the genes and genomes; therefore, the characterization and relatedness of species can be directly inferred from genes, and genome-wide differences. Early genetics was primarily bottlenecked by its ability to resolve small sequence differences, a combination of low-throughput sequencing (first generation Sanger sequencing), and amplification-based (PCR-based) genome qualification methods, followed by the bare-existence of genome databases. Back in the late 20th century, genome-wide comparisons were tremendously difficult to make between microorganisms. As new sequencing technology hit the mainstream, our genome repositories and capacity to resolve genomes grew exponentially. With it, came the rapid realization that microbial genomes are incredibly diverse, even within single samples or single organisms. The discovery of horizontal gene transfer (HGT) and mobile genetic elements as well as a better understanding of phage mechanics demonstrated that a microbial genome more closely resembled a patchwork quilt, than the clean slate that was previously thought to be true. These inconsistencies within even single genomes demonstrated a fundamental flaw in overreliance on genetics, as well as our previous concept of microbial species.
+
+	An early attempt to characterize pathogenic and nonpathogenic strains of E. coli by R.A Welch and his team revealed just how diverse genome qualities are, even within a single well-learned species. Welch et al. 2002 compared the whole genomes of 3 strains of E coli. One strain being nonpathogenic while the other two are enterohemorrhagic and uropathogenic respectively. Welch found that between the three strains of a single E. coli species, their genomes only shared about 39% of expressed genes, and each strain is approximately equally different from each other, despite two pathogens having some phenotypes that are common among pathogenic strains (1). Furthermore, Welch found that even within pathogenic strains, the uropathogenic strain had many different pathogenicity factors that were not present within the enterohemorrhagic strain. The uropathogenic strain was further compared with two other uropathogenic E. coli strain genomes from database; and even between uropathogenic strains, Welch’s team observed that the main pathogenicity islands were largely variant (1). It showed signs of having been inherited from multiple independent clonal lineages. This shows that although the inferred vertically inherited genes are similar between strains, great portions of the backbone are disrupted by gene islands that are the result of HGT (1). 
+
+	Through the popularization of high-throughput sequencing such as pyroseq and illumina, more robust methods/protocols have been adopted to characterize microbes through their genomes. At this point, the field collectively realized the enormous phylogenetic diversity and problems associated with whole-genome phylogenetic analysis. As exemplified through the methods used by Sogin’s team in their study of microbial diversity in deep sea biosphere, sequence clustering to select “marker” genes became the new standard. Sogin et al. took environmental sequences from a deep-sea sample and amplified the 16s rDNA sequences, then bioinformatically clustered the rDNA based on sequence similarity to form clusters of sequences that represent a single taxonomic unit (OTU) (2). 16s rDNA is used as amplification target due to its omnipresence in all domains of life, hence a “marker” that bridges the gap between vastly diverse genomes. Each single OTU was then assigned a taxonomic identity based on the OTU's similarity to database sequences (using BLAST local alignment, and MUSCLE multiple sequence alignment). The resulting OTUs represent known phylogenetic units on the tree of life. Sogin then analyzed these OTUs with respect to the sample richness and diversity of species through ACE and Chao1 estimates (2). The abundance of sequenced reads that map back to the OTUs serve as proxy for estimating the abundance of those organisms in the depth profile. 
+
+	Clustering by 16s rRNA/rDNA along with other marker genes became the gold standard for environmental phylogenetic inference due to its ability to act as a common ground of comparison between vastly different genomes, and its ability to bypass genomes muddled by HGT, but it is not without its own problems. Clustering by any marker gene from amplified shotgun sequences introduces errors and biases from the aforementioned steps. Kunlin demonstrated that sequencing errors can vastly skew the resulting clusters by increasing the rate of false-positive OTUs (3). Sequencing errors introduced new variance in the sequenced reads to an extent that they were clustered as independent units, when they really belong in single groups (3). Kunlin’s experiment of amplifying and clustering against only a single reference genome (E. coli MG1655), and its results founded the notion of implementing stringent read filtering/trimming and a relatively lowered clustering threshold of 97%, as having a high threshold of 100% sequence similarity splits like clusters that can only be differentiated with variations that is attributed to sequencing error (3). 
+
+	With each iteration and revision of phylogenetic workflows, new limitations are found upon existing methodologies, and solutions to overcome. Building upon the advantages of the OTU clustering methods, a next generation clustering algorithm emerges, promising higher resolution and a more biologically meaningful sequence clusters. Callahan’s group proposes that the relatively newly developed amplicon sequence variants (ASVs) method for clustering, performing better than the existing OTU workflow (clustering by similarity threshold) (4). As Callahan outlines, ASVs resolve sequence differences to the nucleotide level, that can resolve differences with nucleotide order in mind (4). Biological filters may then be applied to further specify our definition of microbial species, and cluster sequences accordingly. This effectively reduces bias against simply a 97% threshold being a strictly computational criterion. 
+
+	From Darwin’s days of empiricism to modern day molecular genetics and bioinformatics, our understanding of microbial species as a concept has come a long way. As much as horizontal gene transfer has muddied the waters when it comes to whole-genome-wide comparisons, HGT is an evolutionarily crucial phenomenon in the preservation of genes as well as our widespread biodiversity on a microbial level. Falkowski describes microbes as “Guardians of metabolism” in his paper “The Microbial Engines That Drive Earth’s Biogeochemical Cycles”. HGT has allowed microbes to share genetic information that may help each-other survive selection pressure and become more fit in the environment (5). In turn, the survival of these organisms preserves and pass-on these transferrable genes so that they remain in circulation and will be available for one day when the genes are needed again. The concept of microbial species in the field of microbial ecology has, for the most part, shunned the existence of HGT and mobile genes for ruining the perfect genetic map of evolutionary history. Our best methods for understanding phylogeny involves selecting for strictly vertical inherited marker genes without consideration for the rich evolutionary history that is ignored in HGT. 
+
+A clear and working concept of microbial species is important for characterization of future unexplored microbial domains, and to push our understanding of the limits of the microbial genome. As important as HGT is in determining the community composition of microbes, the speed of technological and methodological progress has always hindered the ability to resolve HGT relative to VGT. Although we still do not collectively have a flawless working concept of microbial species; through many iterations, we have determined a number of things that the concept is not. We learned early on that microbial species cannot be defined through phenotypic empiricism alone. We also learned that it cannot be fully represented as simply a number of similar genomes. More specifically, not even a number of carefully selected similar sequences in a cluster. With all evidence pointing towards HGT as a major counterbalance to selection pressures, it’s about time we learned that the microbial species concept is not complete without consideration for the horizontal gene transfer phenomenon.  
+
+References:
+
+1)	Welch RA, Burland V, Plunkett III G, et al. 2002. Extensive mosaic structure revealed by the complete genome sequence of uropathogenic Escherichia coli. PNAS 99:17020-17024.
+2)	Sogin ML, Morrison HG, Huber JA, et al. 2006. Microbial diversity in the deep sea and the underexplored “rare biosphere”. PNAS 103:12115-12120. 
+3)	Kulin V, Engelbrektson A, Ochman H, Hugenholtz P. 2010. Wrinkes in the rare biosphere: pyrosequencing can lead to artificial inflation of diversity estimates. Env Micb 12:118-123. 
+4)	Callahan BJ, McMurdie PJ, Holmes SP. 2017. Exact sequence variants should replace operational taxonomic units in marker-gene data analysis. ISME J 11:2639-2643.
+5)	Falkowski PG, Fenchel T, Delong EF. 2008. The Microbial Engines That Drive Earth’s Biological Cycles. Science 320:1034-1038. 
+
+## Project 1
+
+(See included project_1.pdf with supplementary materials in current directory)
+
+--------------
+
+# Module 4
+
+* Project_2
+    + Completion status:
+    + Comments:
+    
+## Project 2
+
+(See included project_2.pdf with supplementary materials in current directory)
