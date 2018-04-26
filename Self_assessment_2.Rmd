@@ -1,0 +1,50 @@
+---
+title: "Project_2_self_assessment"
+author: "Tony Yan (18752148)"
+date: "4/25/2018"
+output: html_document
+---
+
+## Abstract
+Did not contribute to abstract
+### Writing
+
+### Editing
+
+## Introduction
+### Literature research
+
+
+### Writing
+Contributed to results and discussions as well as figure building for both projects.
+  Project 2: Contributed sections to the results and mostly discussion. Helped put together a couple figures.
+### Editing
+Revised and edited both project 2. Corrected inaccuracies in data interpretation in results section and cut/appended sections to fulfill requirements and word count. 
+
+## Methods
+### Writing
+Did not contribute to method writing
+### Editing
+Checked for inaccuracies and built rough code-base on google drive to concatinate the code in a readable and annotated manner.
+
+## Results
+### Anaysis 
+Contributed to project 2 analysis.
+
+### Figures
+Built figures and contributed to building the iTOL trees in project 2.
+
+### Writing
+Wrote one section in project 2 results, rewrote another section.
+
+### Editing
+Revised and edited for accuracy. (Especially in the figure descriptions)
+
+## Discussion
+### Literature research
+
+### Writing
+Wrote parts of future directions and distributed metabolism in project 2. 
+
+### Editing
+Removed and appended sections with misinterpretation of data. 

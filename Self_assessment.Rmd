@@ -1,0 +1,52 @@
+---
+title: "Project self-assessment of contributions"
+subtitle: "2018 Term 2 - MICB425"
+output: html_document
+---
+To facilitate group assessment, please indicate your contributions to the following aspects of your final group reports. You should provide short statements under the headers relevant to your work. For example, you could specify that you "wrote the first draft", "wrote the code to accomplish X figure or result", "troubleshot code", "interpreted results", etc.
+
+Include **separate** completed versions of this document for Project 1 **and** Project 2 in your portfolio repo; they do not need to be incorporated into the final knit portfolio html.
+
+## Abstract
+Did not contribute to abstract
+### Writing
+
+### Editing
+
+## Introduction
+### Literature research
+
+
+### Writing
+Contributed to results and discussions as well as figure building for both projects.
+  Project 1: Wrote the majority of the results and built figures out of workflow outputs. Revised and appended all other sections.
+### Editing
+Revised and edited both project 1. Corrected inaccuracies in data interpretation in results section and cut/appended sections to fulfill requirements and word count. 
+
+## Methods
+### Writing
+Did not contribute to method writing
+### Editing
+Checked for inaccuracies and built rough code-base on google drive to concatinate the code in a readable and annotated manner.
+
+## Results
+### Anaysis 
+Wrote project 1 results and contributed to project 2 analysis.
+
+### Figures
+Built figures for project 1 and contributed to building the iTOL trees in project 2.
+
+### Writing
+Wrote project 1 results and one section in project 2 results.
+
+### Editing
+Revised and edited for accuracy. (Especially in the figure descriptions)
+
+## Discussion
+### Literature research
+
+### Writing
+Wrote parts of future directions and distributed metabolism in project 2. Appended to project 1 discussions.
+
+### Editing
+Removed and appended sections with misinterpretation of data. 
